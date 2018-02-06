@@ -1,0 +1,33 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/IdeaProjects/Scala-Test-KnolKart/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:16:66: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:16:81: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:17:60: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:17:75: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:18:66: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:19:60: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:19:74: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:20:64: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala:20:77: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala: File must end with newline character[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Operations.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/database/MyDatabase.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/database/MyDatabase.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Searching.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Searching.scala:81:11: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Searching.scala:82:11: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Searching.scala:48:6: Cyclomatic complexity of 12 exceeds max of 10[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Searching.scala: File must end with newline character[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/edu/knoldus/Searching.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/InventoryOperation.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/InventoryOperation.scala:28:11: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/InventoryOperation.scala:29:11: Magic Number[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/src/main/scala/InventoryOperation.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 4 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 16 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 7 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/IdeaProjects/Scala-Test-KnolKart/inventoryService/target[0m
+[0m[[0m[33mwarn[0m] [0m[0mwarnings exist[0m

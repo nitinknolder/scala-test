@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/IdeaProjects/Scala-Test-KnolKart/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:22:11: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:70:38: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:70:50: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:71:40: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:71:52: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:72:43: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:72:55: Magic Number[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala:69:4: There should be no space before a left bracket '['[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/AccountServices.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/database/Registration.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/database/Registration.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/KnolApplication.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/KnolApplication.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/UserData.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/src/main/scala/edu/knoldus/UserData.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 4 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 8 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 1 ms[0m
+[0m[[0m[32msuccess[0m] [0m[0mcreated output: /home/knoldus/IdeaProjects/Scala-Test-KnolKart/accountService/target[0m
+[0m[[0m[33mwarn[0m] [0m[0mwarnings exist[0m

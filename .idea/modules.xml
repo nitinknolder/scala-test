@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accountService.iml" filepath="$PROJECT_DIR$/.idea/modules/accountService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accountService-build.iml" filepath="$PROJECT_DIR$/.idea/modules/accountService-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apiResources.iml" filepath="$PROJECT_DIR$/.idea/modules/apiResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apiResources-build.iml" filepath="$PROJECT_DIR$/.idea/modules/apiResources-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checkoutService.iml" filepath="$PROJECT_DIR$/.idea/modules/checkoutService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checkoutService-build.iml" filepath="$PROJECT_DIR$/.idea/modules/checkoutService-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventoryService.iml" filepath="$PROJECT_DIR$/.idea/modules/inventoryService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventoryService-build.iml" filepath="$PROJECT_DIR$/.idea/modules/inventoryService-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knolcartDashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/knolcartDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knolcartDashboard-build.iml" filepath="$PROJECT_DIR$/.idea/modules/knolcartDashboard-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>
